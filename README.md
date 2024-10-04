@@ -1,0 +1,1 @@
+# plugins-darklooks-dark-mode-switcher
