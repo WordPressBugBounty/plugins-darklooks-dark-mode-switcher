@@ -3,10 +3,10 @@ Contributors: ThemeLooks, rahi6039
 Donate link: https://themelooks.com/
 Tags: Dark, Dark Mode, Night Mode, WordPress Dark Mode, Dark Theme
 Requires PHP: 7.4x
-Requires WordPress at least: 6.0
-Tested up to: 6.3
-Stable tag: 1.0.6
-Version: 1.0.6
+Requires WordPress at least: 6.7
+Tested up to: 6.8
+Stable tag: 1.0.7
+Version: 1.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,6 +69,11 @@ Yes
 
 
 == Changelog ==
+
+= 1.0.7 =
+
+Added appsero to collect diagnostic data
+Fixed Compatibility issue
 
 = 1.0.6 =
 Fixed latest plugins and WordPress Compatibility issue
