@@ -2,13 +2,16 @@
 Contributors: ThemeLooks, rahi6039
 Donate link: https://themelooks.com/
 Tags: Dark, Dark Mode, Night Mode, WordPress Dark Mode, Dark Theme
-Requires PHP: 7.4x
+Requires PHP: 7.4
 Requires WordPress at least: 6.7
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 1.0.7
 Version: 1.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+
+Short Description: Enable dark mode on your WordPress site for better eye comfort in low-light environments.
 
 == Description ==
 The dark mode is better for your eyes in low-light environments. Also, it can reduce eye strain in low-light conditions (night-time or dimmer workspaces). Darklooks is a WordPress plugin that allows you to implement the dark mode option on your WordPress site. So that visitors can change your site mode from lite to dark and dark to lite, on visitor preference.This plugin builds with a lot of effective features. That will help you to make the environments like yours.
